@@ -5,8 +5,8 @@ excerpt: Discover golden beaches, rich history, and endless adventure.
 header:
     overlay_image: /assets/images/isleofsolara.png
     actions:
-    - label: "History"
-      url: /about
+    - label: "Start Exploring"
+      url: /activities
     overlay_filter: rgba(79,99,82,0.5)
 
 ---

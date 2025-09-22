@@ -2,7 +2,11 @@
 layout: home
 title: Welcome Home!
 header:
-    image: /assets/images/treephoto.jpeg
+    overlay_image: /assets/images/treephoto.jpeg
+    actions:
+        - label: "Learn More"
+        url: /about
+    overlay_filter: rgba(79,99,82,0.5)
 ---
 
 # This is my home page

@@ -4,7 +4,7 @@ author :
   email : hyoun23@stlawu.edu
   github : HunterYoung17
 
-url: "https://HunterYoung17.github.io" # the base hostname & protocol for your site
+url: "https://hunteryoung17.github.io" # the base hostname & protocol for your site
 baseurl: "/jekyll-example" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3

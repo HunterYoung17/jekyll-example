@@ -2,7 +2,7 @@ title : My First Jekyll Site
 author :
   name : Hunter Young
   email : hyoun23@stlawu.edu
-  github : HunterYoung17
+  github : hunteryoung17
 
 url: "https://hunteryoung17.github.io" # the base hostname & protocol for your site
 baseurl: "/jekyll-example" # the subpath of your site, e.g. /repositoryname
